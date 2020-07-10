@@ -1731,11 +1731,28 @@ span.wpcf7-not-valid-tip {
 
 .title0 {
 	font: 300 20px/20px EB Garamond;
+	color: black;
+	text-shadow: 1px 1px 1px grey;
 }
 
 .title1 {
 	font: 66px/68px Dancing Script;
 }
+
+.title1_3_3 {
+	font: 66px/68px Dancing Script;
+	color: black;
+	text-shadow: 3px 2px 1px grey;
+}
+
+
+.title1_2_3 {
+	color: black;
+	font: 28px/30px Dancing Script;
+	margin-bottom: 20px;
+	text-shadow: 3px 2px 1px grey;
+}
+
 
 .title1_2 {
 	font: 28px/30px Dancing Script;
